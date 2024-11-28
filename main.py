@@ -8,7 +8,7 @@ from diaries.DiarySasaki import DairySasaki
 diaries = [
     DiarySample(), 
     DairySasaki(),
-  　hanadaDiary(),
+    hanadaDiary(),
 ] 
 
 
