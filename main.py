@@ -1,3 +1,4 @@
+from diaries.KojimaDiary import KojimaDiary
 from diaries.DiarySample import DiarySample
 from diaries.kawautiDiary import kawautiDiary
 from diaries.iidaDiary import iidaDiary
@@ -11,6 +12,7 @@ diaries = [
     hanadaDiary(),
     iidaDiary(),
     kawautiDiary(),
+    KojimaDiary(),
 ]
 for d in diaries:
     print("---------------------------------")
