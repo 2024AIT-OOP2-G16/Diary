@@ -9,5 +9,6 @@ class KojimaDiary(AbstractDiary):
         まだ触り始めだらよくわからないこともあるけど、チームと協力して進めていけるように頑張りたい。
         マージ、プル、プッシュなどわからないことも多いが慣れていければ良いと考える。"""
 
+
     def get_author(self):
         return "kojima"
