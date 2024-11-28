@@ -8,4 +8,4 @@ class DairySasaki(AbstractDiary):
         return "今日はGitHubについて学んだ。教わったことをしっかり活かしたい。"
     
     def get_author(self):
-        return "Sasaki"
+        return "佐々木颯太"
