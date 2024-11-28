@@ -1,4 +1,4 @@
-from diaries import KojimaDiary
+from diaries.KojimaDiary import KojimaDiary
 from diaries.DiarySample import DiarySample
 
 # ↓のリストには、メンバーの各日記が格納されます。
